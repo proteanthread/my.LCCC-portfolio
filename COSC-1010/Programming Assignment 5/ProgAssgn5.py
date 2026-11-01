@@ -1,4 +1,4 @@
-# Programming Assignment 4 - Automobile costs
+# Programming Assignment 5 - Functions
 # Jeff Wood
 # COSC 1010-500 26/FA - Dr. North
 # 10-15-2026
